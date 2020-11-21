@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChickenNFriend</string>
+    <string name="title_home">Home</string>
+    <string name="title_user">Profile</string>
+    <string name="title_comment">Comment</string>
+    <string name="title_about">About</string>
+</resources>
